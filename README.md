@@ -1,7 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-Demo : https://m-city-ed2c7.firebaseapp.com/the-matches
+Demo public : https://m-city-ed2c7.firebaseapp.com
+
+Demo Admin : https://m-city-ed2c7.firebaseapp.com/sign_in
+
 
 ## Available Scripts
 
